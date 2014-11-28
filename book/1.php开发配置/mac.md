@@ -2,7 +2,7 @@
 ##说明
   本小节主要从网上收集整理好的资料。有链接的地方，大家可以打开链接对照进行配置。
 ##集成环境
-####MAMP
+###MAMP
 1. [官方地址](http://www.mamp.info/en/)  
 2. [安装与使用](http://www.jb51.net/article/57251.htm)
 
@@ -20,12 +20,12 @@
 
 #自己配置
 
-1. 本机配置
+###本机配置
 
-	[在OS X 10.10 Yosemite中使用Apache, MySQL, PHP 和 phpMyAdmin](http://www.xpardan.com/?p=109)
-	[Mac下用brew搭建PHP(LNMP/LAMP)开发环境](http://yansu.org/2013/12/11/lamp-in-mac.html)
+  [在OS X 10.10 Yosemite中使用Apache, MySQL, PHP 和 phpMyAdmin](http://www.xpardan.com/?p=109)
+  [Mac下用brew搭建PHP(LNMP/LAMP)开发环境](http://yansu.org/2013/12/11/lamp-in-mac.html)
 	
-	[全新安装Mac OSX 开发者环境 同时使用homebrew搭建 PHP，Nginx ，MySQL，Redis，Memcache ... ... (LNMP开发环境)](http://segmentfault.com/blog/fish/1190000000606752)
+  [全新安装Mac OSX 开发者环境 同时使用homebrew搭建 PHP，Nginx ，MySQL，Redis，Memcache ... ... (LNMP开发环境)](http://segmentfault.com/blog/fish/1190000000606752)
 	
-2. 虚拟机
-	vagrant
+###虚拟机
+  vagrant
