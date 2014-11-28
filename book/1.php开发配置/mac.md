@@ -21,9 +21,11 @@
 #自己配置
 
 1. 本机配置
+
 	[在OS X 10.10 Yosemite中使用Apache, MySQL, PHP 和 phpMyAdmin](http://www.xpardan.com/?p=109)
 	[Mac下用brew搭建PHP(LNMP/LAMP)开发环境](http://yansu.org/2013/12/11/lamp-in-mac.html)
 	
 	[全新安装Mac OSX 开发者环境 同时使用homebrew搭建 PHP，Nginx ，MySQL，Redis，Memcache ... ... (LNMP开发环境)](http://segmentfault.com/blog/fish/1190000000606752)
+	
 2. 虚拟机
 	vagrant
