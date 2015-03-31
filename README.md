@@ -59,6 +59,7 @@
   11. vagrant与其他配置
     1. vagrant
     2. composer
+    3. pear
   12. 框架的设计与实践
     1. MVC分层
     2. thinkphp
