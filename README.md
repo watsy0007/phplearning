@@ -36,7 +36,9 @@
       5. 图型
     2. php常用数据库
       1. mysql
-    3. phpmyadmin
+    3. phpmyadmin、Navicat
+    4. 数据库的事务
+    5. 数据库日志
   6. php连接数据库
     1. mysql函数
     2. PDO
